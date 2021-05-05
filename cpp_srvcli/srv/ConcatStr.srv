@@ -1,0 +1,5 @@
+string aa
+string bb
+int8 sys
+---
+string concatinated_aa_bb
