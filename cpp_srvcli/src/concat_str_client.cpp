@@ -1,12 +1,3 @@
-// [
-//         "/home/anni/sample_ws/src/ros_tutorials/turtlesim/include/**",
-//         "/home/anni/sample_ws/src/srv_string/include/**",
-//         "/opt/ros/foxy/include/**",
-//         "/usr/include/**",
-//         "/home/anni/sample_ws/install/cpp_srvcli/include/**"
-//       ],
-
-
 #include <chrono>
 #include <cstdlib>
 #include <memory>
